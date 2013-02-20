@@ -1,8 +1,12 @@
-<http://data.opendataday.it/resource/dati.lombardia>	<http://purl.org/dc/elements/1.1/title>	"Catalogo OpenData della Regione Lombardia".
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Catalog>.
+<http://data.opendataday.it/resource/dati.lombardia>	<http://purl.org/dc/elements/1.1/title>	"Catalogo OpenData della Regione Lombardia".
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/tuar-wxya>.
 <http://data.opendataday.it/resource/dati.lombardia/tuar-wxya>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
 <http://data.opendataday.it/resource/dati.lombardia/tuar-wxya>	<http://purl.org/dc/elements/1.1/title>	"Albo Cooperative Sociali".
+<http://data.opendataday.it/resource/dati.lombardia/tuar-wxya>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/solidarieta>.
+<http://data.opendataday.it/resource/tag/solidarieta>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/solidarieta>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/solidarieta>	<http://purl.org/dc/elements/1.1/title>	"solidarietà".
 <http://data.opendataday.it/resource/dati.lombardia/tuar-wxya>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/solidarieta>.
 <http://data.opendataday.it/resource/tag/solidarieta>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
 <http://data.opendataday.it/resource/tag/solidarieta>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
@@ -27,36 +31,6 @@
 <http://data.opendataday.it/resource/dati.lombardia/tuar-wxya/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
 <http://data.opendataday.it/resource/dati.lombardia/tuar-wxya>	<http://xmlns.com/foaf/0.1/homepage>	<http://dati.lombardia.it/dati/Solidariet-/Albo-Cooperative-Sociali/tuar-wxya>.
 <http://data.opendataday.it/resource/dati.lombardia/tuar-wxya>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
-<http://data.opendataday.it/resource/dati.lombardia/tuar-wxya>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/solidarieta>.
-<http://data.opendataday.it/resource/tag/solidarieta>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
-<http://data.opendataday.it/resource/tag/solidarieta>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
-<http://data.opendataday.it/resource/tag/solidarieta>	<http://purl.org/dc/elements/1.1/title>	"solidarietà".
-<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3>.
-<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
-<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3>	<http://purl.org/dc/elements/1.1/title>	"Impianti Sportivi".
-<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/sport>.
-<http://data.opendataday.it/resource/tag/sport>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
-<http://data.opendataday.it/resource/tag/sport>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
-<http://data.opendataday.it/resource/tag/sport>	<http://purl.org/dc/elements/1.1/title>	"sport".
-<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/sport>.
-<http://data.opendataday.it/resource/tag/sport>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
-<http://data.opendataday.it/resource/tag/sport>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
-<http://data.opendataday.it/resource/tag/sport>	<http://purl.org/dc/elements/1.1/title>	"sport".
-<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/impianti>.
-<http://data.opendataday.it/resource/tag/impianti>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
-<http://data.opendataday.it/resource/tag/impianti>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
-<http://data.opendataday.it/resource/tag/impianti>	<http://purl.org/dc/elements/1.1/title>	"impianti".
-<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3>	<http://purl.org/dc/terms/description>	"Elenco impianti sportivi in Lombardia.".
-<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
-<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3>	<http://purl.org/dc/terms/modified>	"Ottobre 2012".
-<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
-<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3/ds0>.
-<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3.json>.
-<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
-<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3>	<http://xmlns.com/foaf/0.1/homepage>	<http://dati.lombardia.it/dati/Sport/Impianti-Sportivi/sd8x-w4h3>.
-<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
-<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/yg2u-75d9>.
-<http://data.opendataday.it/resource/dati.lombardia/yg2u-75d9>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/vef4-8fnp>.
 <http://data.opendataday.it/resource/dati.lombardia/vef4-8fnp>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
 <http://data.opendataday.it/resource/dati.lombardia/vef4-8fnp>	<http://purl.org/dc/elements/1.1/title>	"Elenco RSA Accreditate".
@@ -138,18 +112,37 @@ Elenco dei soggetti esercenti attività agrituristica ai sensi dell’art. 153 d
 <http://data.opendataday.it/resource/dati.lombardia/xy9p-k9bj/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
 <http://data.opendataday.it/resource/dati.lombardia/xy9p-k9bj>	<http://xmlns.com/foaf/0.1/homepage>	<http://dati.lombardia.it/dati/Agricoltura/Elenco-Regionale-degli-agriturismo/xy9p-k9bj>.
 <http://data.opendataday.it/resource/dati.lombardia/xy9p-k9bj>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
-<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/fm99-kxtn>.
-<http://data.opendataday.it/resource/dati.lombardia/fm99-kxtn>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
-<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/m9r2-yy9u>.
-<http://data.opendataday.it/resource/dati.lombardia/m9r2-yy9u>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
-<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/k2xm-fcgg>.
-<http://data.opendataday.it/resource/dati.lombardia/k2xm-fcgg>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
-<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/cjgj-du8b>.
-<http://data.opendataday.it/resource/dati.lombardia/cjgj-du8b>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
-<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/kf9b-rj2t>.
-<http://data.opendataday.it/resource/dati.lombardia/kf9b-rj2t>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/yg2u-75d9>.
+<http://data.opendataday.it/resource/dati.lombardia/yg2u-75d9>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/yg2u-75d9>	<http://purl.org/dc/elements/1.1/title>	"Tassa auto".
+<http://data.opendataday.it/resource/dati.lombardia/yg2u-75d9>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/tributi>.
+<http://data.opendataday.it/resource/tag/tributi>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/tributi>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/tributi>	<http://purl.org/dc/elements/1.1/title>	"tributi".
+<http://data.opendataday.it/resource/dati.lombardia/yg2u-75d9>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/bollo>.
+<http://data.opendataday.it/resource/tag/bollo>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/bollo>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/bollo>	<http://purl.org/dc/elements/1.1/title>	"bollo".
+<http://data.opendataday.it/resource/dati.lombardia/yg2u-75d9>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/auto>.
+<http://data.opendataday.it/resource/tag/auto>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/auto>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/auto>	<http://purl.org/dc/elements/1.1/title>	"auto".
+<http://data.opendataday.it/resource/dati.lombardia/yg2u-75d9>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/tributi>.
+<http://data.opendataday.it/resource/tag/tributi>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/tributi>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/tributi>	<http://purl.org/dc/elements/1.1/title>	"tributi".
+<http://data.opendataday.it/resource/dati.lombardia/yg2u-75d9>	<http://purl.org/dc/terms/description>	"Dove pagare la tassa auto in Lombardia".
+<http://data.opendataday.it/resource/dati.lombardia/yg2u-75d9>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/yg2u-75d9>	<http://purl.org/dc/terms/modified>	"23/1/13".
+<http://data.opendataday.it/resource/dati.lombardia/yg2u-75d9/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/yg2u-75d9>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/yg2u-75d9/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/yg2u-75d9/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/yg2u-75d9.json>.
+<http://data.opendataday.it/resource/dati.lombardia/yg2u-75d9/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/yg2u-75d9>	<http://xmlns.com/foaf/0.1/homepage>	</tributi/tassa-auto>.
+<http://data.opendataday.it/resource/dati.lombardia/yg2u-75d9>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/3syc-54zf>.
 <http://data.opendataday.it/resource/dati.lombardia/3syc-54zf>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/3syc-54zf>	<http://purl.org/dc/elements/1.1/title>	"Musei".
 <http://data.opendataday.it/resource/dati.lombardia/3syc-54zf>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/cultura>.
 <http://data.opendataday.it/resource/tag/cultura>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
 <http://data.opendataday.it/resource/tag/cultura>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
@@ -178,79 +171,1077 @@ Elenco dei soggetti esercenti attività agrituristica ai sensi dell’art. 153 d
 <http://data.opendataday.it/resource/tag/istruzione>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
 <http://data.opendataday.it/resource/tag/istruzione>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
 <http://data.opendataday.it/resource/tag/istruzione>	<http://purl.org/dc/elements/1.1/title>	"istruzione".
+<http://data.opendataday.it/resource/dati.lombardia/3syc-54zf>	<http://purl.org/dc/terms/description>	"""Anagrafe Musei riconosciuti della Lombardia.
+La realtà dei musei in Lombardia è un fenomeno numericamente consistente e socialmente radicato sul territorio.""".
+<http://data.opendataday.it/resource/dati.lombardia/3syc-54zf>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
 <http://data.opendataday.it/resource/dati.lombardia/3syc-54zf>	<http://purl.org/dc/terms/modified>	"Marzo 2012".
 <http://data.opendataday.it/resource/dati.lombardia/3syc-54zf/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
 <http://data.opendataday.it/resource/dati.lombardia/3syc-54zf>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/3syc-54zf/ds0>.
 <http://data.opendataday.it/resource/dati.lombardia/3syc-54zf/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/3syc-54zf.json>.
 <http://data.opendataday.it/resource/dati.lombardia/3syc-54zf/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
 <http://data.opendataday.it/resource/dati.lombardia/3syc-54zf>	<http://xmlns.com/foaf/0.1/homepage>	<http://dati.lombardia.it/dati/Cultura/Musei/3syc-54zf>.
-<http://data.opendataday.it/resource/dati.lombardia/3syc-54zf>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
-<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/68zx-njaw>.
-<http://data.opendataday.it/resource/dati.lombardia/68zx-njaw>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
-<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/4twa-i9aj>.
-<http://data.opendataday.it/resource/dati.lombardia/4twa-i9aj>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
-<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/iu2c-9p5j>.
-<http://data.opendataday.it/resource/dati.lombardia/iu2c-9p5j>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
 <http://data.opendataday.it/resource/dati.lombardia/3syc-54zf>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
+<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3>.
+<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3>	<http://purl.org/dc/elements/1.1/title>	"Impianti Sportivi".
+<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/sport>.
+<http://data.opendataday.it/resource/tag/sport>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/sport>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/sport>	<http://purl.org/dc/elements/1.1/title>	"sport".
+<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/sport>.
+<http://data.opendataday.it/resource/tag/sport>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/sport>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/sport>	<http://purl.org/dc/elements/1.1/title>	"sport".
+<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/impianti>.
+<http://data.opendataday.it/resource/tag/impianti>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/impianti>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/impianti>	<http://purl.org/dc/elements/1.1/title>	"impianti".
+<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3>	<http://purl.org/dc/terms/description>	"Elenco impianti sportivi in Lombardia.".
+<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3>	<http://purl.org/dc/terms/modified>	"Ottobre 2012".
+<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3.json>.
+<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3>	<http://xmlns.com/foaf/0.1/homepage>	<http://dati.lombardia.it/dati/Sport/Impianti-Sportivi/sd8x-w4h3>.
+<http://data.opendataday.it/resource/dati.lombardia/sd8x-w4h3>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
+<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/fm99-kxtn>.
+<http://data.opendataday.it/resource/dati.lombardia/fm99-kxtn>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/fm99-kxtn>	<http://purl.org/dc/elements/1.1/title>	"Anagrafe Scuole".
+<http://data.opendataday.it/resource/dati.lombardia/fm99-kxtn>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/istruzione>.
+<http://data.opendataday.it/resource/tag/istruzione>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/istruzione>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/istruzione>	<http://purl.org/dc/elements/1.1/title>	"istruzione".
+<http://data.opendataday.it/resource/dati.lombardia/fm99-kxtn>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/scuole>.
+<http://data.opendataday.it/resource/tag/scuole>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/scuole>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/scuole>	<http://purl.org/dc/elements/1.1/title>	"scuole".
+<http://data.opendataday.it/resource/dati.lombardia/fm99-kxtn>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/formazione>.
+<http://data.opendataday.it/resource/tag/formazione>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/formazione>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/formazione>	<http://purl.org/dc/elements/1.1/title>	"formazione".
+<http://data.opendataday.it/resource/dati.lombardia/fm99-kxtn>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/istruzione>.
+<http://data.opendataday.it/resource/tag/istruzione>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/istruzione>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/istruzione>	<http://purl.org/dc/elements/1.1/title>	"istruzione".
+<http://data.opendataday.it/resource/dati.lombardia/fm99-kxtn>	<http://purl.org/dc/terms/description>	"Istituzioni scolastiche e scuole statali in Lombardia".
+<http://data.opendataday.it/resource/dati.lombardia/fm99-kxtn>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/fm99-kxtn/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/fm99-kxtn>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/fm99-kxtn/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/fm99-kxtn/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/fm99-kxtn.json>.
+<http://data.opendataday.it/resource/dati.lombardia/fm99-kxtn/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/fm99-kxtn>	<http://xmlns.com/foaf/0.1/homepage>	<http://dati.lombardia.it/dati/Istruzione/Anagrafe-Scuole/fm99-kxtn>.
+<http://data.opendataday.it/resource/dati.lombardia/fm99-kxtn>	<http://purl.org/dc/terms/publisher>	"Ufficio scolastico per la Regione Lombardia".
+<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/m9r2-yy9u>.
+<http://data.opendataday.it/resource/dati.lombardia/m9r2-yy9u>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/m9r2-yy9u>	<http://purl.org/dc/elements/1.1/title>	"Accessi con CRS 2011".
+<http://data.opendataday.it/resource/dati.lombardia/m9r2-yy9u>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/government>.
+<http://data.opendataday.it/resource/tag/government>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/government>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/government>	<http://purl.org/dc/elements/1.1/title>	"government".
+<http://data.opendataday.it/resource/dati.lombardia/m9r2-yy9u>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/crs>.
+<http://data.opendataday.it/resource/tag/crs>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/crs>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/crs>	<http://purl.org/dc/elements/1.1/title>	"crs".
+<http://data.opendataday.it/resource/dati.lombardia/m9r2-yy9u>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/cns>.
+<http://data.opendataday.it/resource/tag/cns>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/cns>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/cns>	<http://purl.org/dc/elements/1.1/title>	"cns".
+<http://data.opendataday.it/resource/dati.lombardia/m9r2-yy9u>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/idpc>.
+<http://data.opendataday.it/resource/tag/idpc>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/idpc>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/idpc>	<http://purl.org/dc/elements/1.1/title>	"idpc".
+<http://data.opendataday.it/resource/dati.lombardia/m9r2-yy9u>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/regione-lombardia>.
+<http://data.opendataday.it/resource/tag/regione-lombardia>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/regione-lombardia>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/regione-lombardia>	<http://purl.org/dc/elements/1.1/title>	"regione lombardia".
+<http://data.opendataday.it/resource/dati.lombardia/m9r2-yy9u>	<http://purl.org/dc/terms/description>	"""La Carta Regionale dei Servizi (di seguito CRS), è una smartcard distribuita da Regione Lombardia,  conforme allo standard CNS (Carta Nazionale dei Servizi).
+La CRS è una tessera elettronica contenente una chiave privata che garantisce il riconoscimento dell’identità dell’utilizzatore.
+Per questo tipo di autenticazione Regione Lombardia utilizza e mette a disposizione degli EELL il servizio Identity Provider Cittadinia (nel seguito IdPC).
+Il dataset Accessi  CRS contiene l'elenco di tutte le operazioni di autenticazione effettuate tramite IdPC con CRS o con altre Carte Nazionali dei Servizi emesse dalla Pubblica Amministrazione.
+Per una lista esaustiva delle funzionalità si consulti il sito di progetto http://www.crs.lombardia.it""".
+<http://data.opendataday.it/resource/dati.lombardia/m9r2-yy9u>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/m9r2-yy9u>	<http://purl.org/dc/terms/modified>	"31/12/2011".
+<http://data.opendataday.it/resource/dati.lombardia/m9r2-yy9u/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/m9r2-yy9u>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/m9r2-yy9u/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/m9r2-yy9u/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/m9r2-yy9u.json>.
+<http://data.opendataday.it/resource/dati.lombardia/m9r2-yy9u/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/m9r2-yy9u>	<http://xmlns.com/foaf/0.1/homepage>	</government/accessi-con-crs-2011>.
+<http://data.opendataday.it/resource/dati.lombardia/m9r2-yy9u>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
+<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/cjgj-du8b>.
+<http://data.opendataday.it/resource/dati.lombardia/cjgj-du8b>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/cjgj-du8b>	<http://purl.org/dc/elements/1.1/title>	"Bandi di gara della P.A. lombarda".
+<http://data.opendataday.it/resource/dati.lombardia/cjgj-du8b>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/government>.
+<http://data.opendataday.it/resource/tag/government>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/government>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/government>	<http://purl.org/dc/elements/1.1/title>	"government".
+<http://data.opendataday.it/resource/dati.lombardia/cjgj-du8b>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/procedure-di-gara>.
+<http://data.opendataday.it/resource/tag/procedure-di-gara>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/procedure-di-gara>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/procedure-di-gara>	<http://purl.org/dc/elements/1.1/title>	"procedure di gara".
+<http://data.opendataday.it/resource/dati.lombardia/cjgj-du8b>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/sintel>.
+<http://data.opendataday.it/resource/tag/sintel>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/sintel>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/sintel>	<http://purl.org/dc/elements/1.1/title>	"sintel".
+<http://data.opendataday.it/resource/dati.lombardia/cjgj-du8b>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/centrale-acquisti>.
+<http://data.opendataday.it/resource/tag/centrale-acquisti>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/centrale-acquisti>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/centrale-acquisti>	<http://purl.org/dc/elements/1.1/title>	"centrale acquisti".
+<http://data.opendataday.it/resource/dati.lombardia/cjgj-du8b>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/appalto>.
+<http://data.opendataday.it/resource/tag/appalto>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/appalto>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/appalto>	<http://purl.org/dc/elements/1.1/title>	"appalto".
+<http://data.opendataday.it/resource/dati.lombardia/cjgj-du8b>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/appalti>.
+<http://data.opendataday.it/resource/tag/appalti>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/appalti>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/appalti>	<http://purl.org/dc/elements/1.1/title>	"appalti".
+<http://data.opendataday.it/resource/dati.lombardia/cjgj-du8b>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/e-procurement>.
+<http://data.opendataday.it/resource/tag/e-procurement>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/e-procurement>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/e-procurement>	<http://purl.org/dc/elements/1.1/title>	"e-procurement".
+<http://data.opendataday.it/resource/dati.lombardia/cjgj-du8b>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/acquisti>.
+<http://data.opendataday.it/resource/tag/acquisti>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/acquisti>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/acquisti>	<http://purl.org/dc/elements/1.1/title>	"acquisti".
+<http://data.opendataday.it/resource/dati.lombardia/cjgj-du8b>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/cjgj-du8b>	<http://purl.org/dc/terms/modified>	"18/2/13".
+<http://data.opendataday.it/resource/dati.lombardia/cjgj-du8b/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/cjgj-du8b>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/cjgj-du8b/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/cjgj-du8b/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/cjgj-du8b.json>.
+<http://data.opendataday.it/resource/dati.lombardia/cjgj-du8b/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/cjgj-du8b>	<http://xmlns.com/foaf/0.1/homepage>	<http://dati.lombardia.it/dati/Government/Procedure-Di-Gara/cjgj-du8b>.
+<http://data.opendataday.it/resource/dati.lombardia/cjgj-du8b>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
+<http://data.opendataday.it/resource/dati.lombardia/cjgj-du8b>	<http://purl.org/dc/terms/description>	"Elenco dei bandi di gara lanciati su Sintel, la piattaforma di e-procurement messa a disposizione da Regione Lombardia e utilizzata dalla Pubblica Amministrazione lombarda per l’espletamento on-line dei propri processi di acquisto.".
+<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/kf9b-rj2t>.
+<http://data.opendataday.it/resource/dati.lombardia/kf9b-rj2t>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/kf9b-rj2t>	<http://purl.org/dc/elements/1.1/title>	"Architetture".
+<http://data.opendataday.it/resource/dati.lombardia/kf9b-rj2t>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/cultura>.
+<http://data.opendataday.it/resource/tag/cultura>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/cultura>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/cultura>	<http://purl.org/dc/elements/1.1/title>	"cultura".
+<http://data.opendataday.it/resource/dati.lombardia/kf9b-rj2t>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/architetture>.
+<http://data.opendataday.it/resource/tag/architetture>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/architetture>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/architetture>	<http://purl.org/dc/elements/1.1/title>	"architetture".
+<http://data.opendataday.it/resource/dati.lombardia/kf9b-rj2t>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/reperti-archeologici>.
+<http://data.opendataday.it/resource/tag/reperti-archeologici>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/reperti-archeologici>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/reperti-archeologici>	<http://purl.org/dc/elements/1.1/title>	"reperti archeologici".
+<http://data.opendataday.it/resource/dati.lombardia/kf9b-rj2t>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/opere-d-x27-arte>.
+<http://data.opendataday.it/resource/tag/opere-d-x27-arte>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/opere-d-x27-arte>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/opere-d-x27-arte>	<http://purl.org/dc/elements/1.1/title>	"opere d&#x27;arte".
+<http://data.opendataday.it/resource/dati.lombardia/kf9b-rj2t>	<http://purl.org/dc/terms/description>	"Architetture della Regione Lombardia".
+<http://data.opendataday.it/resource/dati.lombardia/kf9b-rj2t>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/kf9b-rj2t>	<http://purl.org/dc/terms/modified>	"15 Marzo 2012".
+<http://data.opendataday.it/resource/dati.lombardia/kf9b-rj2t/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/kf9b-rj2t>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/kf9b-rj2t/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/kf9b-rj2t/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/kf9b-rj2t.json>.
+<http://data.opendataday.it/resource/dati.lombardia/kf9b-rj2t/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/kf9b-rj2t>	<http://xmlns.com/foaf/0.1/homepage>	<http://dati.lombardia.it/dati/Cultura/Architetture/kf9b-rj2t>.
+<http://data.opendataday.it/resource/dati.lombardia/kf9b-rj2t>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/xumi-cac8>.
 <http://data.opendataday.it/resource/dati.lombardia/xumi-cac8>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
-<http://data.opendataday.it/resource/dati.lombardia/3syc-54zf>	<http://purl.org/dc/elements/1.1/title>	"Musei".
-<http://data.opendataday.it/resource/dati.lombardia/3syc-54zf>	<http://purl.org/dc/terms/description>	"""Anagrafe Musei riconosciuti della Lombardia.
-La realtà dei musei in Lombardia è un fenomeno numericamente consistente e socialmente radicato sul territorio.""".
-<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/iv5z-g39w>.
-<http://data.opendataday.it/resource/dati.lombardia/iv5z-g39w>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/xumi-cac8>	<http://purl.org/dc/elements/1.1/title>	"Associazioni Senza Scopo Di Lucro Iscritte Nel Registro Regionale".
+<http://data.opendataday.it/resource/dati.lombardia/xumi-cac8>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/famiglia>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://purl.org/dc/elements/1.1/title>	"famiglia".
+<http://data.opendataday.it/resource/dati.lombardia/xumi-cac8>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/associazioni>.
+<http://data.opendataday.it/resource/tag/associazioni>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/associazioni>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/associazioni>	<http://purl.org/dc/elements/1.1/title>	"associazioni".
+<http://data.opendataday.it/resource/dati.lombardia/xumi-cac8>	<http://purl.org/dc/terms/description>	"Elenco Associazioni senza scopo di lucro iscritte nel registro regionale dell'associazionismo 2010".
+<http://data.opendataday.it/resource/dati.lombardia/xumi-cac8>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/xumi-cac8>	<http://purl.org/dc/terms/modified>	"31/12/2010".
+<http://data.opendataday.it/resource/dati.lombardia/xumi-cac8/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/xumi-cac8>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/xumi-cac8/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/xumi-cac8/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/xumi-cac8.json>.
+<http://data.opendataday.it/resource/dati.lombardia/xumi-cac8/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/xumi-cac8>	<http://xmlns.com/foaf/0.1/homepage>	</famiglia/associazioni-senza-scopo-di-lucro-iscritte-nel-registro-regionale>.
+<http://data.opendataday.it/resource/dati.lombardia/xumi-cac8>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
+<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/k2xm-fcgg>.
+<http://data.opendataday.it/resource/dati.lombardia/k2xm-fcgg>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/k2xm-fcgg>	<http://purl.org/dc/elements/1.1/title>	"Biblioteche".
+<http://data.opendataday.it/resource/dati.lombardia/k2xm-fcgg>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/cultura>.
+<http://data.opendataday.it/resource/tag/cultura>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/cultura>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/cultura>	<http://purl.org/dc/elements/1.1/title>	"cultura".
+<http://data.opendataday.it/resource/dati.lombardia/k2xm-fcgg>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/istruzione>.
+<http://data.opendataday.it/resource/tag/istruzione>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/istruzione>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/istruzione>	<http://purl.org/dc/elements/1.1/title>	"istruzione".
+<http://data.opendataday.it/resource/dati.lombardia/k2xm-fcgg>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/formazione>.
+<http://data.opendataday.it/resource/tag/formazione>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/formazione>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/formazione>	<http://purl.org/dc/elements/1.1/title>	"formazione".
+<http://data.opendataday.it/resource/dati.lombardia/k2xm-fcgg>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/cultura>.
+<http://data.opendataday.it/resource/tag/cultura>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/cultura>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/cultura>	<http://purl.org/dc/elements/1.1/title>	"cultura".
+<http://data.opendataday.it/resource/dati.lombardia/k2xm-fcgg>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/biblioteche>.
+<http://data.opendataday.it/resource/tag/biblioteche>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/biblioteche>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/biblioteche>	<http://purl.org/dc/elements/1.1/title>	"biblioteche".
+<http://data.opendataday.it/resource/dati.lombardia/k2xm-fcgg>	<http://purl.org/dc/terms/description>	"Dati (patrimonio, servizi, indirizzo, orari...) delle biblioteche comunali della Lombardia".
+<http://data.opendataday.it/resource/dati.lombardia/k2xm-fcgg>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/k2xm-fcgg>	<http://purl.org/dc/terms/modified>	"Dicembre 2009".
+<http://data.opendataday.it/resource/dati.lombardia/k2xm-fcgg/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/k2xm-fcgg>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/k2xm-fcgg/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/k2xm-fcgg/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/k2xm-fcgg.json>.
+<http://data.opendataday.it/resource/dati.lombardia/k2xm-fcgg/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/k2xm-fcgg>	<http://xmlns.com/foaf/0.1/homepage>	<http://dati.lombardia.it/dati/Cultura/Biblioteche/k2xm-fcgg>.
+<http://data.opendataday.it/resource/dati.lombardia/k2xm-fcgg>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
+<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/4twa-i9aj>.
+<http://data.opendataday.it/resource/dati.lombardia/4twa-i9aj>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/4twa-i9aj>	<http://purl.org/dc/elements/1.1/title>	"Elenco delle Associazioni di Promozione Sociale".
+<http://data.opendataday.it/resource/dati.lombardia/4twa-i9aj>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/famiglia>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://purl.org/dc/elements/1.1/title>	"famiglia".
+<http://data.opendataday.it/resource/dati.lombardia/4twa-i9aj>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/promozione>.
+<http://data.opendataday.it/resource/tag/promozione>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/promozione>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/promozione>	<http://purl.org/dc/elements/1.1/title>	"promozione".
+<http://data.opendataday.it/resource/dati.lombardia/4twa-i9aj>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/sociale>.
+<http://data.opendataday.it/resource/tag/sociale>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/sociale>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/sociale>	<http://purl.org/dc/elements/1.1/title>	"sociale".
+<http://data.opendataday.it/resource/dati.lombardia/4twa-i9aj>	<http://purl.org/dc/terms/description>	"Elenco delle Associazioni di Promozione Sociale iscritte nei Registri Regionale e Provinciali suddivise per Provincia e in ordine alfabetico di Comune, comprensivi delle APS a carattere nazionale".
+<http://data.opendataday.it/resource/dati.lombardia/4twa-i9aj>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/4twa-i9aj/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/4twa-i9aj>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/4twa-i9aj/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/4twa-i9aj/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/4twa-i9aj.json>.
+<http://data.opendataday.it/resource/dati.lombardia/4twa-i9aj/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/4twa-i9aj>	<http://xmlns.com/foaf/0.1/homepage>	</famiglia/elenco-delle-associazioni-di-promozione-sociale>.
+<http://data.opendataday.it/resource/dati.lombardia/4twa-i9aj>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
+<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/68zx-njaw>.
+<http://data.opendataday.it/resource/dati.lombardia/68zx-njaw>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/68zx-njaw>	<http://purl.org/dc/elements/1.1/title>	"Mercati su aree pubbliche".
+<http://data.opendataday.it/resource/dati.lombardia/68zx-njaw>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/commercio>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://purl.org/dc/elements/1.1/title>	"commercio".
+<http://data.opendataday.it/resource/dati.lombardia/68zx-njaw>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/commercio>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://purl.org/dc/elements/1.1/title>	"commercio".
+<http://data.opendataday.it/resource/dati.lombardia/68zx-njaw>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/mercati>.
+<http://data.opendataday.it/resource/tag/mercati>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/mercati>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/mercati>	<http://purl.org/dc/elements/1.1/title>	"mercati".
+<http://data.opendataday.it/resource/dati.lombardia/68zx-njaw>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/aree-pubbliche>.
+<http://data.opendataday.it/resource/tag/aree-pubbliche>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/aree-pubbliche>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/aree-pubbliche>	<http://purl.org/dc/elements/1.1/title>	"aree pubbliche".
+<http://data.opendataday.it/resource/dati.lombardia/68zx-njaw>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/ambulanti>.
+<http://data.opendataday.it/resource/tag/ambulanti>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/ambulanti>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/ambulanti>	<http://purl.org/dc/elements/1.1/title>	"ambulanti".
+<http://data.opendataday.it/resource/dati.lombardia/68zx-njaw>	<http://purl.org/dc/terms/description>	"Anagrafe e calendario dei mercati comunali. I dati sono forniti da Unioncamere Lombardia con rielaborazione effettuata da parte di Regione Lombardia".
+<http://data.opendataday.it/resource/dati.lombardia/68zx-njaw>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/68zx-njaw>	<http://purl.org/dc/terms/modified>	"Aprile 2012".
+<http://data.opendataday.it/resource/dati.lombardia/68zx-njaw/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/68zx-njaw>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/68zx-njaw/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/68zx-njaw/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/68zx-njaw.json>.
+<http://data.opendataday.it/resource/dati.lombardia/68zx-njaw/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/68zx-njaw>	<http://xmlns.com/foaf/0.1/homepage>	</commercio/mercati-su-aree-pubbliche>.
+<http://data.opendataday.it/resource/dati.lombardia/68zx-njaw>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/evp6-cunn>.
 <http://data.opendataday.it/resource/dati.lombardia/evp6-cunn>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
-<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/j25r-r7bk>.
-<http://data.opendataday.it/resource/dati.lombardia/j25r-r7bk>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/evp6-cunn>	<http://purl.org/dc/elements/1.1/title>	"Fiere Internazionali,Nazionali e Regionali".
+<http://data.opendataday.it/resource/dati.lombardia/evp6-cunn>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/commercio>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://purl.org/dc/elements/1.1/title>	"commercio".
+<http://data.opendataday.it/resource/dati.lombardia/evp6-cunn>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/commercio>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://purl.org/dc/elements/1.1/title>	"commercio".
+<http://data.opendataday.it/resource/dati.lombardia/evp6-cunn>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/fiere>.
+<http://data.opendataday.it/resource/tag/fiere>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/fiere>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/fiere>	<http://purl.org/dc/elements/1.1/title>	"fiere".
+<http://data.opendataday.it/resource/dati.lombardia/evp6-cunn>	<http://purl.org/dc/terms/description>	"Calendario Fiere Internazionali, Nazionali e Regionali in lombardia".
+<http://data.opendataday.it/resource/dati.lombardia/evp6-cunn>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/evp6-cunn>	<http://purl.org/dc/terms/modified>	"16 Marzo 2012".
+<http://data.opendataday.it/resource/dati.lombardia/evp6-cunn/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/evp6-cunn>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/evp6-cunn/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/evp6-cunn/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/evp6-cunn.json>.
+<http://data.opendataday.it/resource/dati.lombardia/evp6-cunn/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/evp6-cunn>	<http://xmlns.com/foaf/0.1/homepage>	</commercio/fiere-internazionali-nazionali-e-regionali>.
+<http://data.opendataday.it/resource/dati.lombardia/evp6-cunn>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
+<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/iv5z-g39w>.
+<http://data.opendataday.it/resource/dati.lombardia/iv5z-g39w>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/iv5z-g39w>	<http://purl.org/dc/elements/1.1/title>	"Elenco Centri Diurni Integrati  Accreditati per Anziani".
+<http://data.opendataday.it/resource/dati.lombardia/iv5z-g39w>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/famiglia>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://purl.org/dc/elements/1.1/title>	"famiglia".
+<http://data.opendataday.it/resource/dati.lombardia/iv5z-g39w>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/famiglia>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://purl.org/dc/elements/1.1/title>	"famiglia".
+<http://data.opendataday.it/resource/dati.lombardia/iv5z-g39w>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/cdi>.
+<http://data.opendataday.it/resource/tag/cdi>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/cdi>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/cdi>	<http://purl.org/dc/elements/1.1/title>	"cdi".
+<http://data.opendataday.it/resource/dati.lombardia/iv5z-g39w>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/anziani>.
+<http://data.opendataday.it/resource/tag/anziani>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/anziani>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/anziani>	<http://purl.org/dc/elements/1.1/title>	"anziani".
+<http://data.opendataday.it/resource/dati.lombardia/iv5z-g39w>	<http://purl.org/dc/terms/description>	"Elenchi delle strutture sociosanitarie e sociali accreditate, degli enti e delle associazioni iscritte nei registri regionali della direzione generale famiglia e solidarietà sociale per area anziani.".
+<http://data.opendataday.it/resource/dati.lombardia/iv5z-g39w>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/iv5z-g39w>	<http://purl.org/dc/terms/modified>	"27/11/11".
+<http://data.opendataday.it/resource/dati.lombardia/iv5z-g39w/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/iv5z-g39w>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/iv5z-g39w/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/iv5z-g39w/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/iv5z-g39w.json>.
+<http://data.opendataday.it/resource/dati.lombardia/iv5z-g39w/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/iv5z-g39w>	<http://xmlns.com/foaf/0.1/homepage>	</famiglia/elenco-centri-diurni-integrati--accreditati-per-anziani>.
+<http://data.opendataday.it/resource/dati.lombardia/iv5z-g39w>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/s2zv-sfri>.
 <http://data.opendataday.it/resource/dati.lombardia/s2zv-sfri>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/s2zv-sfri>	<http://purl.org/dc/elements/1.1/title>	"ELENCO RSD".
+<http://data.opendataday.it/resource/dati.lombardia/s2zv-sfri>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/famiglia>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://purl.org/dc/elements/1.1/title>	"famiglia".
+<http://data.opendataday.it/resource/dati.lombardia/s2zv-sfri>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/disabili>.
+<http://data.opendataday.it/resource/tag/disabili>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/disabili>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/disabili>	<http://purl.org/dc/elements/1.1/title>	"disabili".
+<http://data.opendataday.it/resource/dati.lombardia/s2zv-sfri>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/residenze>.
+<http://data.opendataday.it/resource/tag/residenze>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/residenze>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/residenze>	<http://purl.org/dc/elements/1.1/title>	"residenze".
+<http://data.opendataday.it/resource/dati.lombardia/s2zv-sfri>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/s2zv-sfri>	<http://purl.org/dc/terms/modified>	"16 Gennaio 2012".
+<http://data.opendataday.it/resource/dati.lombardia/s2zv-sfri/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/s2zv-sfri>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/s2zv-sfri/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/s2zv-sfri/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/s2zv-sfri.json>.
+<http://data.opendataday.it/resource/dati.lombardia/s2zv-sfri/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/s2zv-sfri>	<http://xmlns.com/foaf/0.1/homepage>	</famiglia/elenco-rsd>.
+<http://data.opendataday.it/resource/dati.lombardia/s2zv-sfri>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
+<http://data.opendataday.it/resource/dati.lombardia/s2zv-sfri>	<http://purl.org/dc/terms/description>	"Elenco Residenze Sanitarie per Disabili".
+<http://data.opendataday.it/resource/dati.lombardia/iu2c-9p5j>	<http://purl.org/dc/elements/1.1/title>	"Mappa Musei".
+<http://data.opendataday.it/resource/dati.lombardia/iu2c-9p5j>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/cultura>.
+<http://data.opendataday.it/resource/tag/cultura>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/cultura>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/cultura>	<http://purl.org/dc/elements/1.1/title>	"cultura".
+<http://data.opendataday.it/resource/dati.lombardia/iu2c-9p5j>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/cultura>.
+<http://data.opendataday.it/resource/tag/cultura>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/cultura>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/cultura>	<http://purl.org/dc/elements/1.1/title>	"cultura".
+<http://data.opendataday.it/resource/dati.lombardia/iu2c-9p5j>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/musei>.
+<http://data.opendataday.it/resource/tag/musei>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/musei>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/musei>	<http://purl.org/dc/elements/1.1/title>	"musei".
+<http://data.opendataday.it/resource/dati.lombardia/iu2c-9p5j>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/arte>.
+<http://data.opendataday.it/resource/tag/arte>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/arte>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/arte>	<http://purl.org/dc/elements/1.1/title>	"arte".
+<http://data.opendataday.it/resource/dati.lombardia/iu2c-9p5j>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/etnografia>.
+<http://data.opendataday.it/resource/tag/etnografia>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/etnografia>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/etnografia>	<http://purl.org/dc/elements/1.1/title>	"etnografia".
+<http://data.opendataday.it/resource/dati.lombardia/iu2c-9p5j>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/storia>.
+<http://data.opendataday.it/resource/tag/storia>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/storia>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/storia>	<http://purl.org/dc/elements/1.1/title>	"storia".
+<http://data.opendataday.it/resource/dati.lombardia/iu2c-9p5j>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/istruzione>.
+<http://data.opendataday.it/resource/tag/istruzione>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/istruzione>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/istruzione>	<http://purl.org/dc/elements/1.1/title>	"istruzione".
+<http://data.opendataday.it/resource/dati.lombardia/iu2c-9p5j>	<http://purl.org/dc/terms/description>	"Anagrafe Musei riconosciuti della Lombardia. La realtà dei musei in Lombardia è un fenomeno numericamente consistente e socialmente radicato sul territorio.".
+<http://data.opendataday.it/resource/dati.lombardia/iu2c-9p5j>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/iu2c-9p5j>	<http://purl.org/dc/terms/modified>	"Marzo 2012".
+<http://data.opendataday.it/resource/dati.lombardia/iu2c-9p5j/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/iu2c-9p5j>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/iu2c-9p5j/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/iu2c-9p5j/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/iu2c-9p5j.json>.
+<http://data.opendataday.it/resource/dati.lombardia/iu2c-9p5j/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/iu2c-9p5j>	<http://xmlns.com/foaf/0.1/homepage>	<http://dati.lombardia.it/dati/Cultura/Mappa-Musei/iu2c-9p5j>.
+<http://data.opendataday.it/resource/dati.lombardia/iu2c-9p5j>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
+<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/iu2c-9p5j>.
+<http://data.opendataday.it/resource/dati.lombardia/iu2c-9p5j>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/47pw-qkka>.
 <http://data.opendataday.it/resource/dati.lombardia/47pw-qkka>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
-<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/hp9g-iiy4>.
-<http://data.opendataday.it/resource/dati.lombardia/hp9g-iiy4>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/47pw-qkka>	<http://purl.org/dc/elements/1.1/title>	"Parco Veicoli Circolanti Regione Lombardia a Luglio 2012".
+<http://data.opendataday.it/resource/dati.lombardia/47pw-qkka>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/tributi>.
+<http://data.opendataday.it/resource/tag/tributi>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/tributi>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/tributi>	<http://purl.org/dc/elements/1.1/title>	"tributi".
+<http://data.opendataday.it/resource/dati.lombardia/47pw-qkka>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/veicoli>.
+<http://data.opendataday.it/resource/tag/veicoli>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/veicoli>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/veicoli>	<http://purl.org/dc/elements/1.1/title>	"veicoli".
+<http://data.opendataday.it/resource/dati.lombardia/47pw-qkka>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/autoveicoli>.
+<http://data.opendataday.it/resource/tag/autoveicoli>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/autoveicoli>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/autoveicoli>	<http://purl.org/dc/elements/1.1/title>	"autoveicoli".
+<http://data.opendataday.it/resource/dati.lombardia/47pw-qkka>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/auto>.
+<http://data.opendataday.it/resource/tag/auto>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/auto>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/auto>	<http://purl.org/dc/elements/1.1/title>	"auto".
+<http://data.opendataday.it/resource/dati.lombardia/47pw-qkka>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/circolanti>.
+<http://data.opendataday.it/resource/tag/circolanti>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/circolanti>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/circolanti>	<http://purl.org/dc/elements/1.1/title>	"circolanti".
+<http://data.opendataday.it/resource/dati.lombardia/47pw-qkka>	<http://purl.org/dc/terms/description>	"""Elenco del parco veicoli circolanti in Regione Lombardia.Contiene i principali dati tecnici di un veicolo ed il Comune 
+di appartenenza dell’intestatario. Il dataset contiene circa 150000 record di veicoli immatricolati prima del 1998 
+per i quali è in corso una bonifica in collaborazione con altre Amministrazioni.
+PER SCARICARE L'INTERO DATASET (circa 800Mb), è disponibile una versione in formato compresso di 63,3Mb (Parco Veicoli Circolanti Regione Lombardia(file compresso per download rapido)).""".
+<http://data.opendataday.it/resource/dati.lombardia/47pw-qkka>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/47pw-qkka>	<http://purl.org/dc/terms/modified>	"Luglio 2012".
+<http://data.opendataday.it/resource/dati.lombardia/47pw-qkka/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/47pw-qkka>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/47pw-qkka/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/47pw-qkka/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/47pw-qkka.json>.
+<http://data.opendataday.it/resource/dati.lombardia/47pw-qkka/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/47pw-qkka>	<http://xmlns.com/foaf/0.1/homepage>	<http://dati.lombardia.it/dati/Tributi/Parco-Veicoli-Circolanti-Regione-Lombardia-a-Lugli/47pw-qkka>.
+<http://data.opendataday.it/resource/dati.lombardia/47pw-qkka>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/v7mx-ns4h>.
 <http://data.opendataday.it/resource/dati.lombardia/v7mx-ns4h>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
-<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/bye6-kfh2>.
-<http://data.opendataday.it/resource/dati.lombardia/bye6-kfh2>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
-<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/dnqy-r2p5>.
-<http://data.opendataday.it/resource/dati.lombardia/dnqy-r2p5>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/v7mx-ns4h>	<http://purl.org/dc/elements/1.1/title>	"Unita' di Offerta Sociale Prima Infanzia".
+<http://data.opendataday.it/resource/dati.lombardia/v7mx-ns4h>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/famiglia>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://purl.org/dc/elements/1.1/title>	"famiglia".
+<http://data.opendataday.it/resource/dati.lombardia/v7mx-ns4h>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/minori>.
+<http://data.opendataday.it/resource/tag/minori>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/minori>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/minori>	<http://purl.org/dc/elements/1.1/title>	"minori".
+<http://data.opendataday.it/resource/dati.lombardia/v7mx-ns4h>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/sociali>.
+<http://data.opendataday.it/resource/tag/sociali>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/sociali>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/sociali>	<http://purl.org/dc/elements/1.1/title>	"sociali".
+<http://data.opendataday.it/resource/dati.lombardia/v7mx-ns4h>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/infanzia>.
+<http://data.opendataday.it/resource/tag/infanzia>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/infanzia>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/infanzia>	<http://purl.org/dc/elements/1.1/title>	"infanzia".
+<http://data.opendataday.it/resource/dati.lombardia/v7mx-ns4h>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/nido>.
+<http://data.opendataday.it/resource/tag/nido>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/nido>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/nido>	<http://purl.org/dc/elements/1.1/title>	"nido".
+<http://data.opendataday.it/resource/dati.lombardia/v7mx-ns4h>	<http://purl.org/dc/terms/description>	"""Elenco Unità d’Offerta Sociali  in esercizio - area MINORI – Servizi per la Prima Infanzia:
+•	Nido
+•	Micronido
+•	Nido Famiglia
+•	Centro per la Prima Infanzia""".
+<http://data.opendataday.it/resource/dati.lombardia/v7mx-ns4h>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/v7mx-ns4h>	<http://purl.org/dc/terms/modified>	"9/1/13".
+<http://data.opendataday.it/resource/dati.lombardia/v7mx-ns4h/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/v7mx-ns4h>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/v7mx-ns4h/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/v7mx-ns4h/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/v7mx-ns4h.json>.
+<http://data.opendataday.it/resource/dati.lombardia/v7mx-ns4h/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/v7mx-ns4h>	<http://xmlns.com/foaf/0.1/homepage>	</famiglia/unita--di-offerta-sociale-prima-infanzia>.
+<http://data.opendataday.it/resource/dati.lombardia/v7mx-ns4h>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
+<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/j25r-r7bk>.
+<http://data.opendataday.it/resource/dati.lombardia/j25r-r7bk>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/j25r-r7bk>	<http://purl.org/dc/elements/1.1/title>	"Fattorie didattiche lombarde".
+<http://data.opendataday.it/resource/dati.lombardia/j25r-r7bk>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/agricoltura>.
+<http://data.opendataday.it/resource/tag/agricoltura>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/agricoltura>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/agricoltura>	<http://purl.org/dc/elements/1.1/title>	"agricoltura".
+<http://data.opendataday.it/resource/dati.lombardia/j25r-r7bk>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/agricoltura>.
+<http://data.opendataday.it/resource/tag/agricoltura>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/agricoltura>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/agricoltura>	<http://purl.org/dc/elements/1.1/title>	"agricoltura".
+<http://data.opendataday.it/resource/dati.lombardia/j25r-r7bk>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/fattorie-didattiche>.
+<http://data.opendataday.it/resource/tag/fattorie-didattiche>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/fattorie-didattiche>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/fattorie-didattiche>	<http://purl.org/dc/elements/1.1/title>	"fattorie didattiche".
+<http://data.opendataday.it/resource/dati.lombardia/j25r-r7bk>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/orti>.
+<http://data.opendataday.it/resource/tag/orti>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/orti>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/orti>	<http://purl.org/dc/elements/1.1/title>	"orti".
+<http://data.opendataday.it/resource/dati.lombardia/j25r-r7bk>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/scuole>.
+<http://data.opendataday.it/resource/tag/scuole>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/scuole>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/scuole>	<http://purl.org/dc/elements/1.1/title>	"scuole".
+<http://data.opendataday.it/resource/dati.lombardia/j25r-r7bk>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/insegnanti>.
+<http://data.opendataday.it/resource/tag/insegnanti>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/insegnanti>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/insegnanti>	<http://purl.org/dc/elements/1.1/title>	"insegnanti".
+<http://data.opendataday.it/resource/dati.lombardia/j25r-r7bk>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/famiglie>.
+<http://data.opendataday.it/resource/tag/famiglie>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/famiglie>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/famiglie>	<http://purl.org/dc/elements/1.1/title>	"famiglie".
+<http://data.opendataday.it/resource/dati.lombardia/j25r-r7bk>	<http://purl.org/dc/terms/description>	"Le Fattorie Didattiche della Lombardia sono aziende agricole/agrituristiche impegnate nell’educazione del pubblico ed in particolare nell’accoglienza di gruppi scolastici e di giovani nell’ambito delle loro attività scolastiche ed extrascolastiche. A livello regionale le aziende accreditate sono inserite nella Rete delle Fattorie Didattiche e sono tenute a rispettare una serie di requisiti.".
+<http://data.opendataday.it/resource/dati.lombardia/j25r-r7bk>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/j25r-r7bk>	<http://purl.org/dc/terms/modified>	"Settembre 2012".
+<http://data.opendataday.it/resource/dati.lombardia/j25r-r7bk/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/j25r-r7bk>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/j25r-r7bk/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/j25r-r7bk/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/j25r-r7bk.json>.
+<http://data.opendataday.it/resource/dati.lombardia/j25r-r7bk/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/j25r-r7bk>	<http://xmlns.com/foaf/0.1/homepage>	<http://dati.lombardia.it/dati/Agricoltura/Fattorie-didattiche-lombarde/j25r-r7bk>.
+<http://data.opendataday.it/resource/dati.lombardia/j25r-r7bk>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/ib5f-j45w>.
 <http://data.opendataday.it/resource/dati.lombardia/ib5f-j45w>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
-<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/r9fb-4fm4>.
-<http://data.opendataday.it/resource/dati.lombardia/r9fb-4fm4>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
-<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/f73b-wa4s>.
-<http://data.opendataday.it/resource/dati.lombardia/f73b-wa4s>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
-<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/jadb-69ie>.
-<http://data.opendataday.it/resource/dati.lombardia/jadb-69ie>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/ib5f-j45w>	<http://purl.org/dc/elements/1.1/title>	"Riepilogo Offerta Formativa".
+<http://data.opendataday.it/resource/dati.lombardia/ib5f-j45w>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/istruzione>.
+<http://data.opendataday.it/resource/tag/istruzione>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/istruzione>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/istruzione>	<http://purl.org/dc/elements/1.1/title>	"istruzione".
+<http://data.opendataday.it/resource/dati.lombardia/ib5f-j45w>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/formazione>.
+<http://data.opendataday.it/resource/tag/formazione>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/formazione>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/formazione>	<http://purl.org/dc/elements/1.1/title>	"formazione".
+<http://data.opendataday.it/resource/dati.lombardia/ib5f-j45w>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/corsi>.
+<http://data.opendataday.it/resource/tag/corsi>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/corsi>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/corsi>	<http://purl.org/dc/elements/1.1/title>	"corsi".
+<http://data.opendataday.it/resource/dati.lombardia/ib5f-j45w>	<http://purl.org/dc/terms/description>	"Offerta formativa dettagliata in relazione alla denominazione del soggetto proponente, al comune dove viene attivato il percorso, alla tipologia di offerta formativa (liceale, tecnica, professionale, di istruzione e formazione professionale)".
+<http://data.opendataday.it/resource/dati.lombardia/ib5f-j45w>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/ib5f-j45w>	<http://purl.org/dc/terms/modified>	"Febbraio 2012".
+<http://data.opendataday.it/resource/dati.lombardia/ib5f-j45w/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/ib5f-j45w>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/ib5f-j45w/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/ib5f-j45w/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/ib5f-j45w.json>.
+<http://data.opendataday.it/resource/dati.lombardia/ib5f-j45w/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/ib5f-j45w>	<http://xmlns.com/foaf/0.1/homepage>	</istruzione/riepilogo-offerta-formativa>.
+<http://data.opendataday.it/resource/dati.lombardia/ib5f-j45w>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
+<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/hp9g-iiy4>.
+<http://data.opendataday.it/resource/dati.lombardia/hp9g-iiy4>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/hp9g-iiy4>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/tributi>.
+<http://data.opendataday.it/resource/tag/tributi>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/tributi>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/tributi>	<http://purl.org/dc/elements/1.1/title>	"tributi".
+<http://data.opendataday.it/resource/dati.lombardia/hp9g-iiy4>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/tributi>.
+<http://data.opendataday.it/resource/tag/tributi>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/tributi>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/tributi>	<http://purl.org/dc/elements/1.1/title>	"tributi".
+<http://data.opendataday.it/resource/dati.lombardia/hp9g-iiy4>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/tassa-auto>.
+<http://data.opendataday.it/resource/tag/tassa-auto>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/tassa-auto>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/tassa-auto>	<http://purl.org/dc/elements/1.1/title>	"tassa auto".
+<http://data.opendataday.it/resource/dati.lombardia/hp9g-iiy4>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/bollo-auto>.
+<http://data.opendataday.it/resource/tag/bollo-auto>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/bollo-auto>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/bollo-auto>	<http://purl.org/dc/elements/1.1/title>	"bollo auto".
+<http://data.opendataday.it/resource/dati.lombardia/hp9g-iiy4>	<http://purl.org/dc/elements/1.1/title>	"Mappa Tassa Auto".
+<http://data.opendataday.it/resource/dati.lombardia/hp9g-iiy4>	<http://purl.org/dc/terms/description>	"Dove pagare la tassa auto in Lombardia".
+<http://data.opendataday.it/resource/dati.lombardia/hp9g-iiy4>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/hp9g-iiy4/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/hp9g-iiy4>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/hp9g-iiy4/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/hp9g-iiy4/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/hp9g-iiy4.json>.
+<http://data.opendataday.it/resource/dati.lombardia/hp9g-iiy4/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/hp9g-iiy4>	<http://xmlns.com/foaf/0.1/homepage>	</tributi/mappa-tassa-auto>.
+<http://data.opendataday.it/resource/dati.lombardia/hp9g-iiy4>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
+<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/dnqy-r2p5>.
+<http://data.opendataday.it/resource/dati.lombardia/dnqy-r2p5>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/dnqy-r2p5>	<http://purl.org/dc/elements/1.1/title>	"Accessi con CRS 2010".
+<http://data.opendataday.it/resource/dati.lombardia/dnqy-r2p5>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/government>.
+<http://data.opendataday.it/resource/tag/government>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/government>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/government>	<http://purl.org/dc/elements/1.1/title>	"government".
+<http://data.opendataday.it/resource/dati.lombardia/dnqy-r2p5>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/crs>.
+<http://data.opendataday.it/resource/tag/crs>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/crs>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/crs>	<http://purl.org/dc/elements/1.1/title>	"crs".
+<http://data.opendataday.it/resource/dati.lombardia/dnqy-r2p5>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/cns>.
+<http://data.opendataday.it/resource/tag/cns>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/cns>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/cns>	<http://purl.org/dc/elements/1.1/title>	"cns".
+<http://data.opendataday.it/resource/dati.lombardia/dnqy-r2p5>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/idpc>.
+<http://data.opendataday.it/resource/tag/idpc>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/idpc>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/idpc>	<http://purl.org/dc/elements/1.1/title>	"idpc".
+<http://data.opendataday.it/resource/dati.lombardia/dnqy-r2p5>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/regione-lombardia>.
+<http://data.opendataday.it/resource/tag/regione-lombardia>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/regione-lombardia>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/regione-lombardia>	<http://purl.org/dc/elements/1.1/title>	"regione lombardia".
+<http://data.opendataday.it/resource/dati.lombardia/dnqy-r2p5>	<http://purl.org/dc/terms/description>	"""La Carta Regionale dei Servizi (di seguito CRS), è una smartcard distribuita da Regione Lombardia,  conforme allo standard CNS (Carta Nazionale dei Servizi).
+La CRS è una tessera elettronica contenente una chiave privata che garantisce il riconoscimento dell’identità dell’utilizzatore.
+Per questo tipo di autenticazione Regione Lombardia utilizza e mette a disposizione degli EELL il servizio Identity Provider Cittadinia (nel seguito IdPC).
+Il dataset Accessi  CRS contiene l'elenco di tutte le operazioni di autenticazione effettuate tramite IdPC con CRS o con altre Carte Nazionali dei Servizi emesse dalla Pubblica Amministrazione.
+Per una lista esaustiva delle funzionalità si consulti il sito di progetto http://www.crs.lombardia.it""".
+<http://data.opendataday.it/resource/dati.lombardia/dnqy-r2p5>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/dnqy-r2p5>	<http://purl.org/dc/terms/modified>	"31/12/2010".
+<http://data.opendataday.it/resource/dati.lombardia/dnqy-r2p5/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/dnqy-r2p5>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/dnqy-r2p5/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/dnqy-r2p5/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/dnqy-r2p5.json>.
+<http://data.opendataday.it/resource/dati.lombardia/dnqy-r2p5/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/dnqy-r2p5>	<http://xmlns.com/foaf/0.1/homepage>	</government/accessi-con-crs-2010>.
+<http://data.opendataday.it/resource/dati.lombardia/dnqy-r2p5>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/uzy5-pr9h>.
 <http://data.opendataday.it/resource/dati.lombardia/uzy5-pr9h>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/uzy5-pr9h>	<http://purl.org/dc/elements/1.1/title>	"NATURA DA VIVERE".
+<http://data.opendataday.it/resource/dati.lombardia/uzy5-pr9h>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/paesaggio>.
+<http://data.opendataday.it/resource/tag/paesaggio>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/paesaggio>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/paesaggio>	<http://purl.org/dc/elements/1.1/title>	"paesaggio".
+<http://data.opendataday.it/resource/dati.lombardia/uzy5-pr9h>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/parchi>.
+<http://data.opendataday.it/resource/tag/parchi>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/parchi>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/parchi>	<http://purl.org/dc/elements/1.1/title>	"parchi".
+<http://data.opendataday.it/resource/dati.lombardia/uzy5-pr9h>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/eventi>.
+<http://data.opendataday.it/resource/tag/eventi>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/eventi>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/eventi>	<http://purl.org/dc/elements/1.1/title>	"eventi".
+<http://data.opendataday.it/resource/dati.lombardia/uzy5-pr9h>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/sistemi-verdi>.
+<http://data.opendataday.it/resource/tag/sistemi-verdi>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/sistemi-verdi>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/sistemi-verdi>	<http://purl.org/dc/elements/1.1/title>	"sistemi verdi".
+<http://data.opendataday.it/resource/dati.lombardia/uzy5-pr9h>	<http://purl.org/dc/terms/description>	"Gli storici programmi di Parco in Parco e Foreste da Vivere si integrano in un ciclo di eventi ambientati nell’intero Sistema Verde regionale per promuoverne gli aspetti più suggestivi e favorirne la fruizione da parte di tutte le fasce d’età, mediante occasioni di intrattenimento e l’offerta di attività ludiche, sportive, didattiche, culturali, turistiche e altro ancora, per far scoprire, conoscere e apprezzare il patrimonio paesaggistico e naturalistico della nostra Regione.".
+<http://data.opendataday.it/resource/dati.lombardia/uzy5-pr9h>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/uzy5-pr9h>	<http://purl.org/dc/terms/modified>	"Maggio 2012".
+<http://data.opendataday.it/resource/dati.lombardia/uzy5-pr9h/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/uzy5-pr9h>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/uzy5-pr9h/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/uzy5-pr9h/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/uzy5-pr9h.json>.
+<http://data.opendataday.it/resource/dati.lombardia/uzy5-pr9h/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/uzy5-pr9h>	<http://xmlns.com/foaf/0.1/homepage>	<http://dati.lombardia.it/dati/Paesaggio/NATURA-DA-VIVERE/uzy5-pr9h>.
+<http://data.opendataday.it/resource/dati.lombardia/uzy5-pr9h>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
+<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/bye6-kfh2>.
+<http://data.opendataday.it/resource/dati.lombardia/bye6-kfh2>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/bye6-kfh2>	<http://purl.org/dc/elements/1.1/title>	"Negozi e locali storici GeoRef".
+<http://data.opendataday.it/resource/dati.lombardia/bye6-kfh2>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/commercio>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://purl.org/dc/elements/1.1/title>	"commercio".
+<http://data.opendataday.it/resource/dati.lombardia/bye6-kfh2>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/negozi-e-locali-storici>.
+<http://data.opendataday.it/resource/tag/negozi-e-locali-storici>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/negozi-e-locali-storici>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/negozi-e-locali-storici>	<http://purl.org/dc/elements/1.1/title>	"negozi e locali storici".
+<http://data.opendataday.it/resource/dati.lombardia/bye6-kfh2>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/negozi-storici>.
+<http://data.opendataday.it/resource/tag/negozi-storici>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/negozi-storici>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/negozi-storici>	<http://purl.org/dc/elements/1.1/title>	"negozi storici".
+<http://data.opendataday.it/resource/dati.lombardia/bye6-kfh2>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/locali-storici>.
+<http://data.opendataday.it/resource/tag/locali-storici>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/locali-storici>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/locali-storici>	<http://purl.org/dc/elements/1.1/title>	"locali storici".
+<http://data.opendataday.it/resource/dati.lombardia/bye6-kfh2>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/insegne-storiche>.
+<http://data.opendataday.it/resource/tag/insegne-storiche>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/insegne-storiche>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/insegne-storiche>	<http://purl.org/dc/elements/1.1/title>	"insegne storiche".
+<http://data.opendataday.it/resource/dati.lombardia/bye6-kfh2>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/insegne-storiche-e-di-tradizione>.
+<http://data.opendataday.it/resource/tag/insegne-storiche-e-di-tradizione>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/insegne-storiche-e-di-tradizione>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/insegne-storiche-e-di-tradizione>	<http://purl.org/dc/elements/1.1/title>	"insegne storiche e di tradizione".
+<http://data.opendataday.it/resource/dati.lombardia/bye6-kfh2>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/commercio>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://purl.org/dc/elements/1.1/title>	"commercio".
+<http://data.opendataday.it/resource/dati.lombardia/bye6-kfh2>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/riconoscimento>.
+<http://data.opendataday.it/resource/tag/riconoscimento>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/riconoscimento>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/riconoscimento>	<http://purl.org/dc/elements/1.1/title>	"riconoscimento".
+<http://data.opendataday.it/resource/dati.lombardia/bye6-kfh2>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/valore-storico>.
+<http://data.opendataday.it/resource/tag/valore-storico>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/valore-storico>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/valore-storico>	<http://purl.org/dc/elements/1.1/title>	"valore storico".
+<http://data.opendataday.it/resource/dati.lombardia/bye6-kfh2>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/tradizione>.
+<http://data.opendataday.it/resource/tag/tradizione>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/tradizione>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/tradizione>	<http://purl.org/dc/elements/1.1/title>	"tradizione".
+<http://data.opendataday.it/resource/dati.lombardia/bye6-kfh2>	<http://purl.org/dc/terms/description>	"Negozi e Locali Storici (NLS) sono gli esercizi commerciali di vendita/ristoro al dettaglio riconosciuti da Regione Lombardia in virtù di una combinazione di fattori legati alla continuità nel tempo dell'insegna e della merceologia offerta per non meno di 50 anni. Gli elenchi sono aggiornati fino all'ultimo provvedimento: DDUO 25 Novembre 2010 N. 12073 (8°/2010)".
+<http://data.opendataday.it/resource/dati.lombardia/bye6-kfh2>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/bye6-kfh2>	<http://purl.org/dc/terms/modified>	"2010".
+<http://data.opendataday.it/resource/dati.lombardia/bye6-kfh2/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/bye6-kfh2>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/bye6-kfh2/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/bye6-kfh2/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/bye6-kfh2.json>.
+<http://data.opendataday.it/resource/dati.lombardia/bye6-kfh2/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/bye6-kfh2>	<http://xmlns.com/foaf/0.1/homepage>	</commercio/negozi-e-locali-storici-georef>.
+<http://data.opendataday.it/resource/dati.lombardia/bye6-kfh2>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
+<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/f73b-wa4s>.
+<http://data.opendataday.it/resource/dati.lombardia/f73b-wa4s>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/f73b-wa4s>	<http://purl.org/dc/elements/1.1/title>	"Elenco Hospice accreditati".
+<http://data.opendataday.it/resource/dati.lombardia/f73b-wa4s>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/famiglia>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://purl.org/dc/elements/1.1/title>	"famiglia".
+<http://data.opendataday.it/resource/dati.lombardia/f73b-wa4s>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/famiglia>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://purl.org/dc/elements/1.1/title>	"famiglia".
+<http://data.opendataday.it/resource/dati.lombardia/f73b-wa4s>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/cure-palliative>.
+<http://data.opendataday.it/resource/tag/cure-palliative>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/cure-palliative>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/cure-palliative>	<http://purl.org/dc/elements/1.1/title>	"cure palliative".
+<http://data.opendataday.it/resource/dati.lombardia/f73b-wa4s>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/terapia-del-dolore>.
+<http://data.opendataday.it/resource/tag/terapia-del-dolore>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/terapia-del-dolore>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/terapia-del-dolore>	<http://purl.org/dc/elements/1.1/title>	"terapia del dolore".
+<http://data.opendataday.it/resource/dati.lombardia/f73b-wa4s>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/f73b-wa4s>	<http://purl.org/dc/terms/modified>	"20/07/2011".
+<http://data.opendataday.it/resource/dati.lombardia/f73b-wa4s/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/f73b-wa4s>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/f73b-wa4s/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/f73b-wa4s/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/f73b-wa4s.json>.
+<http://data.opendataday.it/resource/dati.lombardia/f73b-wa4s/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/f73b-wa4s>	<http://xmlns.com/foaf/0.1/homepage>	</famiglia/elenco-hospice-accreditati>.
+<http://data.opendataday.it/resource/dati.lombardia/f73b-wa4s>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/37zu-v2ye>.
 <http://data.opendataday.it/resource/dati.lombardia/37zu-v2ye>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
-<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/h85g-pzv8>.
-<http://data.opendataday.it/resource/dati.lombardia/h85g-pzv8>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/37zu-v2ye>	<http://purl.org/dc/elements/1.1/title>	"Consultori Privati".
+<http://data.opendataday.it/resource/dati.lombardia/37zu-v2ye>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/famiglia>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://purl.org/dc/elements/1.1/title>	"famiglia".
+<http://data.opendataday.it/resource/dati.lombardia/37zu-v2ye>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/consultori>.
+<http://data.opendataday.it/resource/tag/consultori>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/consultori>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/consultori>	<http://purl.org/dc/elements/1.1/title>	"consultori".
+<http://data.opendataday.it/resource/dati.lombardia/37zu-v2ye>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/famiglia>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://purl.org/dc/elements/1.1/title>	"famiglia".
+<http://data.opendataday.it/resource/dati.lombardia/37zu-v2ye>	<http://purl.org/dc/terms/description>	"Elenco consultori privati".
+<http://data.opendataday.it/resource/dati.lombardia/37zu-v2ye>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/37zu-v2ye>	<http://purl.org/dc/terms/modified>	"16/01/2012".
+<http://data.opendataday.it/resource/dati.lombardia/37zu-v2ye/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/37zu-v2ye>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/37zu-v2ye/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/37zu-v2ye/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/37zu-v2ye.json>.
+<http://data.opendataday.it/resource/dati.lombardia/37zu-v2ye/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/37zu-v2ye>	<http://xmlns.com/foaf/0.1/homepage>	</famiglia/consultori-privati>.
+<http://data.opendataday.it/resource/dati.lombardia/37zu-v2ye>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
+<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/jadb-69ie>.
+<http://data.opendataday.it/resource/dati.lombardia/jadb-69ie>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/jadb-69ie>	<http://purl.org/dc/elements/1.1/title>	"Bellezze Individue".
+<http://data.opendataday.it/resource/dati.lombardia/jadb-69ie>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/paesaggio>.
+<http://data.opendataday.it/resource/tag/paesaggio>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/paesaggio>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/paesaggio>	<http://purl.org/dc/elements/1.1/title>	"paesaggio".
+<http://data.opendataday.it/resource/dati.lombardia/jadb-69ie>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/paesaggio>.
+<http://data.opendataday.it/resource/tag/paesaggio>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/paesaggio>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/paesaggio>	<http://purl.org/dc/elements/1.1/title>	"paesaggio".
+<http://data.opendataday.it/resource/dati.lombardia/jadb-69ie>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/giardini>.
+<http://data.opendataday.it/resource/tag/giardini>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/giardini>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/giardini>	<http://purl.org/dc/elements/1.1/title>	"giardini".
+<http://data.opendataday.it/resource/dati.lombardia/jadb-69ie>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/parchi>.
+<http://data.opendataday.it/resource/tag/parchi>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/parchi>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/parchi>	<http://purl.org/dc/elements/1.1/title>	"parchi".
+<http://data.opendataday.it/resource/dati.lombardia/jadb-69ie>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/bellezze>.
+<http://data.opendataday.it/resource/tag/bellezze>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/bellezze>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/bellezze>	<http://purl.org/dc/elements/1.1/title>	"bellezze".
+<http://data.opendataday.it/resource/dati.lombardia/jadb-69ie>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/individue>.
+<http://data.opendataday.it/resource/tag/individue>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/individue>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/individue>	<http://purl.org/dc/elements/1.1/title>	"individue".
+<http://data.opendataday.it/resource/dati.lombardia/jadb-69ie>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/interesse-pubblico>.
+<http://data.opendataday.it/resource/tag/interesse-pubblico>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/interesse-pubblico>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/interesse-pubblico>	<http://purl.org/dc/elements/1.1/title>	"interesse pubblico".
+<http://data.opendataday.it/resource/dati.lombardia/jadb-69ie>	<http://purl.org/dc/terms/description>	"Sono beni paesaggistici  le cose immobili che hanno cospicui caratteri di bellezza naturale, singolarità geologica o memoria storica, ivi compresi gli alberi monumentali , le  ville, i  giardini e i parchi  che si distinguono per  la loro non comune bellezza (ville, giardini e parchi non tutelati ai sensi del d.lgs 42/04, Parte Seconda ovvero “beni culturali”).   Sono beni paesaggistici i beni  riconosciuti con specifico atto amministrativo  (decreto ministeriale,  regio decreto, atti  regionali) ai sensi dell’art. 136, comma 1, lettere a) e b) del D.Lgs. 22-1-2004, n. 42. Conosciute anche come 'Bellezze individue” ex-vincolo 1497/39, art. 1, commi 1, 2' .  I dati pubblicati provengono dal sistema informativo territoriale SIBA e sono liberamente scaricabili,  in diversi formati e sistemi di coordinate,  dai servizi di down-load del Geoportale della Lombardia (nome layer: bellezze_individue_SIBA).".
+<http://data.opendataday.it/resource/dati.lombardia/jadb-69ie>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/jadb-69ie>	<http://purl.org/dc/terms/modified>	"Gennaio 2012".
+<http://data.opendataday.it/resource/dati.lombardia/jadb-69ie/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/jadb-69ie>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/jadb-69ie/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/jadb-69ie/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/jadb-69ie.json>.
+<http://data.opendataday.it/resource/dati.lombardia/jadb-69ie/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/jadb-69ie>	<http://xmlns.com/foaf/0.1/homepage>	<http://dati.lombardia.it/dati/government/bellezze-individue/jadb-69ie>.
+<http://data.opendataday.it/resource/dati.lombardia/jadb-69ie>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/uuby-t5hd>.
 <http://data.opendataday.it/resource/dati.lombardia/uuby-t5hd>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
-<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/ajmv-pmdp>.
-<http://data.opendataday.it/resource/dati.lombardia/ajmv-pmdp>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/uuby-t5hd>	<http://purl.org/dc/elements/1.1/title>	"Elenco CSS per disabili".
+<http://data.opendataday.it/resource/dati.lombardia/uuby-t5hd>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/famiglia>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://purl.org/dc/elements/1.1/title>	"famiglia".
+<http://data.opendataday.it/resource/dati.lombardia/uuby-t5hd>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/famiglia>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://purl.org/dc/elements/1.1/title>	"famiglia".
+<http://data.opendataday.it/resource/dati.lombardia/uuby-t5hd>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/disabili>.
+<http://data.opendataday.it/resource/tag/disabili>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/disabili>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/disabili>	<http://purl.org/dc/elements/1.1/title>	"disabili".
+<http://data.opendataday.it/resource/dati.lombardia/uuby-t5hd>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/comunita>.
+<http://data.opendataday.it/resource/tag/comunita>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/comunita>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/comunita>	<http://purl.org/dc/elements/1.1/title>	"comunità".
+<http://data.opendataday.it/resource/dati.lombardia/uuby-t5hd>	<http://purl.org/dc/terms/description>	"Elenco delle Comunità Socio Sanitarie per disabili".
+<http://data.opendataday.it/resource/dati.lombardia/uuby-t5hd>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/uuby-t5hd>	<http://purl.org/dc/terms/modified>	"16/01/2012".
+<http://data.opendataday.it/resource/dati.lombardia/uuby-t5hd/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/uuby-t5hd>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/uuby-t5hd/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/uuby-t5hd/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/uuby-t5hd.json>.
+<http://data.opendataday.it/resource/dati.lombardia/uuby-t5hd/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/uuby-t5hd>	<http://xmlns.com/foaf/0.1/homepage>	</famiglia/elenco-css-per-disabili>.
+<http://data.opendataday.it/resource/dati.lombardia/uuby-t5hd>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
+<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/h85g-pzv8>.
+<http://data.opendataday.it/resource/dati.lombardia/h85g-pzv8>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/h85g-pzv8>	<http://purl.org/dc/elements/1.1/title>	"Unita' di Offerta Sociale Residenziale Minori".
+<http://data.opendataday.it/resource/dati.lombardia/h85g-pzv8>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/famiglia>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://purl.org/dc/elements/1.1/title>	"famiglia".
+<http://data.opendataday.it/resource/dati.lombardia/h85g-pzv8>	<http://purl.org/dc/terms/description>	"""Elenco Unità d’Offerta Sociali  in esercizio - area MINORI – Servizi Residenziali:
+•	Comunità Educativa
+•	Comunità Familiare
+•	Alloggio per l’Autonomia""".
+<http://data.opendataday.it/resource/dati.lombardia/h85g-pzv8>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/h85g-pzv8>	<http://purl.org/dc/terms/modified>	"9/1/13".
+<http://data.opendataday.it/resource/dati.lombardia/h85g-pzv8/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/h85g-pzv8>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/h85g-pzv8/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/h85g-pzv8/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/h85g-pzv8.json>.
+<http://data.opendataday.it/resource/dati.lombardia/h85g-pzv8/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/h85g-pzv8>	<http://xmlns.com/foaf/0.1/homepage>	</famiglia/unita--di-offerta-sociale-residenziale-minori>.
+<http://data.opendataday.it/resource/dati.lombardia/h85g-pzv8>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
+<http://data.opendataday.it/resource/dati.lombardia/h85g-pzv8>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/minori>.
+<http://data.opendataday.it/resource/tag/minori>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/minori>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/minori>	<http://purl.org/dc/elements/1.1/title>	"minori".
+<http://data.opendataday.it/resource/dati.lombardia/h85g-pzv8>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/sociale>.
+<http://data.opendataday.it/resource/tag/sociale>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/sociale>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/sociale>	<http://purl.org/dc/elements/1.1/title>	"sociale".
+<http://data.opendataday.it/resource/dati.lombardia/h85g-pzv8>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/comunita>.
+<http://data.opendataday.it/resource/tag/comunita>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/comunita>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/comunita>	<http://purl.org/dc/elements/1.1/title>	"comunità".
+<http://data.opendataday.it/resource/dati.lombardia/h85g-pzv8>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/alloggio>.
+<http://data.opendataday.it/resource/tag/alloggio>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/alloggio>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/alloggio>	<http://purl.org/dc/elements/1.1/title>	"alloggio".
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/mtrf-sqvd>.
 <http://data.opendataday.it/resource/dati.lombardia/mtrf-sqvd>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/mtrf-sqvd>	<http://purl.org/dc/elements/1.1/title>	"Mappa Erogazione Metano".
+<http://data.opendataday.it/resource/dati.lombardia/mtrf-sqvd>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/commercio>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://purl.org/dc/elements/1.1/title>	"commercio".
+<http://data.opendataday.it/resource/dati.lombardia/mtrf-sqvd>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/metano>.
+<http://data.opendataday.it/resource/tag/metano>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/metano>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/metano>	<http://purl.org/dc/elements/1.1/title>	"metano".
+<http://data.opendataday.it/resource/dati.lombardia/mtrf-sqvd>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/distributori-metano>.
+<http://data.opendataday.it/resource/tag/distributori-metano>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/distributori-metano>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/distributori-metano>	<http://purl.org/dc/elements/1.1/title>	"distributori metano".
+<http://data.opendataday.it/resource/dati.lombardia/mtrf-sqvd>	<http://purl.org/dc/terms/description>	"Impianti di erogazione metano per autotrazione ad uso pubblico".
+<http://data.opendataday.it/resource/dati.lombardia/mtrf-sqvd>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/mtrf-sqvd>	<http://purl.org/dc/terms/modified>	"2008".
+<http://data.opendataday.it/resource/dati.lombardia/mtrf-sqvd/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/mtrf-sqvd>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/mtrf-sqvd/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/mtrf-sqvd/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/mtrf-sqvd.json>.
+<http://data.opendataday.it/resource/dati.lombardia/mtrf-sqvd/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/mtrf-sqvd>	<http://xmlns.com/foaf/0.1/homepage>	</commercio/mappa-erogazione-metano>.
+<http://data.opendataday.it/resource/dati.lombardia/mtrf-sqvd>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/p6cv-6cxx>.
 <http://data.opendataday.it/resource/dati.lombardia/p6cv-6cxx>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/p6cv-6cxx>	<http://purl.org/dc/elements/1.1/title>	"Istituti di Riabilitazione Extraospedaliera per Anziani".
+<http://data.opendataday.it/resource/dati.lombardia/p6cv-6cxx>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/sanita>.
+<http://data.opendataday.it/resource/tag/sanita>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/sanita>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/sanita>	<http://purl.org/dc/elements/1.1/title>	"sanità".
+<http://data.opendataday.it/resource/dati.lombardia/p6cv-6cxx>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/sanita>.
+<http://data.opendataday.it/resource/tag/sanita>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/sanita>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/sanita>	<http://purl.org/dc/elements/1.1/title>	"sanità".
+<http://data.opendataday.it/resource/dati.lombardia/p6cv-6cxx>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/famiglia>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/famiglia>	<http://purl.org/dc/elements/1.1/title>	"famiglia".
+<http://data.opendataday.it/resource/dati.lombardia/p6cv-6cxx>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/riabilitazione>.
+<http://data.opendataday.it/resource/tag/riabilitazione>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/riabilitazione>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/riabilitazione>	<http://purl.org/dc/elements/1.1/title>	"riabilitazione".
+<http://data.opendataday.it/resource/dati.lombardia/p6cv-6cxx>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/anziani>.
+<http://data.opendataday.it/resource/tag/anziani>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/anziani>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/anziani>	<http://purl.org/dc/elements/1.1/title>	"anziani".
+<http://data.opendataday.it/resource/dati.lombardia/p6cv-6cxx>	<http://purl.org/dc/terms/description>	"Elenco degli Istituti di Riabilitazione Extraospedaliera per Anziani".
+<http://data.opendataday.it/resource/dati.lombardia/p6cv-6cxx>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/p6cv-6cxx/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/p6cv-6cxx>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/p6cv-6cxx/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/p6cv-6cxx/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/p6cv-6cxx.json>.
+<http://data.opendataday.it/resource/dati.lombardia/p6cv-6cxx/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/p6cv-6cxx>	<http://xmlns.com/foaf/0.1/homepage>	</sanit-/istituti-di-riabilitazione-extraospedaliera-per-anziani>.
+<http://data.opendataday.it/resource/dati.lombardia/p6cv-6cxx>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/bjb8-gaqa>.
 <http://data.opendataday.it/resource/dati.lombardia/bjb8-gaqa>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
-<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/5n8b-t34h>.
-<http://data.opendataday.it/resource/dati.lombardia/5n8b-t34h>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
-<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/jayn-vsw3>.
-<http://data.opendataday.it/resource/dati.lombardia/jayn-vsw3>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/bjb8-gaqa>	<http://purl.org/dc/elements/1.1/title>	"Incidenti Stradali".
+<http://data.opendataday.it/resource/dati.lombardia/bjb8-gaqa>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/statistica>.
+<http://data.opendataday.it/resource/tag/statistica>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/statistica>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/statistica>	<http://purl.org/dc/elements/1.1/title>	"statistica".
+<http://data.opendataday.it/resource/dati.lombardia/bjb8-gaqa>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/incidenti>.
+<http://data.opendataday.it/resource/tag/incidenti>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/incidenti>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/incidenti>	<http://purl.org/dc/elements/1.1/title>	"incidenti".
+<http://data.opendataday.it/resource/dati.lombardia/bjb8-gaqa>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/stradali>.
+<http://data.opendataday.it/resource/tag/stradali>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/stradali>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/stradali>	<http://purl.org/dc/elements/1.1/title>	"stradali".
+<http://data.opendataday.it/resource/dati.lombardia/bjb8-gaqa>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/lesivita>.
+<http://data.opendataday.it/resource/tag/lesivita>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/lesivita>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/lesivita>	<http://purl.org/dc/elements/1.1/title>	"lesività".
+<http://data.opendataday.it/resource/dati.lombardia/bjb8-gaqa>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/mortalita>.
+<http://data.opendataday.it/resource/tag/mortalita>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/mortalita>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/mortalita>	<http://purl.org/dc/elements/1.1/title>	"mortalità".
+<http://data.opendataday.it/resource/dati.lombardia/bjb8-gaqa>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/pericolosita>.
+<http://data.opendataday.it/resource/tag/pericolosita>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/pericolosita>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/pericolosita>	<http://purl.org/dc/elements/1.1/title>	"pericolosità".
+<http://data.opendataday.it/resource/dati.lombardia/bjb8-gaqa>	<http://purl.org/dc/terms/description>	"Incidenti Stradali: indici di Lesività, Pericolosità e Mortalità per comuni capolugo o superiori a 20.000 abitanti".
+<http://data.opendataday.it/resource/dati.lombardia/bjb8-gaqa>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/bjb8-gaqa>	<http://purl.org/dc/terms/modified>	"9 Novembre 2011".
+<http://data.opendataday.it/resource/dati.lombardia/bjb8-gaqa/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/bjb8-gaqa>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/bjb8-gaqa/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/bjb8-gaqa/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/bjb8-gaqa.json>.
+<http://data.opendataday.it/resource/dati.lombardia/bjb8-gaqa/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/bjb8-gaqa>	<http://xmlns.com/foaf/0.1/homepage>	<http://dati.lombardia.it/dati/Statistica/Incidenti-Stradali/bjb8-gaqa>.
+<http://data.opendataday.it/resource/dati.lombardia/bjb8-gaqa>	<http://purl.org/dc/terms/publisher>	"EUPOLIS Lombardia (fonte ISTAT)".
+<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/ajmv-pmdp>.
+<http://data.opendataday.it/resource/dati.lombardia/ajmv-pmdp>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/ajmv-pmdp>	<http://purl.org/dc/elements/1.1/title>	"Impianti Erogazione carburanti Uso Pubblico".
+<http://data.opendataday.it/resource/dati.lombardia/ajmv-pmdp>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/commercio>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://purl.org/dc/elements/1.1/title>	"commercio".
+<http://data.opendataday.it/resource/dati.lombardia/ajmv-pmdp>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/commercio>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://purl.org/dc/elements/1.1/title>	"commercio".
+<http://data.opendataday.it/resource/dati.lombardia/ajmv-pmdp>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/impianti-carburanti>.
+<http://data.opendataday.it/resource/tag/impianti-carburanti>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/impianti-carburanti>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/impianti-carburanti>	<http://purl.org/dc/elements/1.1/title>	"impianti carburanti".
+<http://data.opendataday.it/resource/dati.lombardia/ajmv-pmdp>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/carburanti>.
+<http://data.opendataday.it/resource/tag/carburanti>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/carburanti>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/carburanti>	<http://purl.org/dc/elements/1.1/title>	"carburanti".
+<http://data.opendataday.it/resource/dati.lombardia/ajmv-pmdp>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/gpl-metano>.
+<http://data.opendataday.it/resource/tag/gpl-metano>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/gpl-metano>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/gpl-metano>	<http://purl.org/dc/elements/1.1/title>	"gpl metano".
+<http://data.opendataday.it/resource/dati.lombardia/ajmv-pmdp>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/benzina>.
+<http://data.opendataday.it/resource/tag/benzina>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/benzina>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/benzina>	<http://purl.org/dc/elements/1.1/title>	"benzina".
+<http://data.opendataday.it/resource/dati.lombardia/ajmv-pmdp>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/gasolio>.
+<http://data.opendataday.it/resource/tag/gasolio>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/gasolio>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/gasolio>	<http://purl.org/dc/elements/1.1/title>	"gasolio".
+<http://data.opendataday.it/resource/dati.lombardia/ajmv-pmdp>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/auto>.
+<http://data.opendataday.it/resource/tag/auto>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/auto>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/auto>	<http://purl.org/dc/elements/1.1/title>	"auto".
+<http://data.opendataday.it/resource/dati.lombardia/ajmv-pmdp>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/distributori-carburante>.
+<http://data.opendataday.it/resource/tag/distributori-carburante>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/distributori-carburante>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/distributori-carburante>	<http://purl.org/dc/elements/1.1/title>	"distributori carburante".
+<http://data.opendataday.it/resource/dati.lombardia/ajmv-pmdp>	<http://purl.org/dc/terms/description>	"Elenco anagrafico degli impianti di erogazione carburante per autotrazione ad uso pubblico".
+<http://data.opendataday.it/resource/dati.lombardia/ajmv-pmdp>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/ajmv-pmdp>	<http://purl.org/dc/terms/modified>	"31-12-2008".
+<http://data.opendataday.it/resource/dati.lombardia/ajmv-pmdp/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/ajmv-pmdp>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/ajmv-pmdp/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/ajmv-pmdp/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/ajmv-pmdp.json>.
+<http://data.opendataday.it/resource/dati.lombardia/ajmv-pmdp/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/ajmv-pmdp>	<http://xmlns.com/foaf/0.1/homepage>	<http://dati.lombardia.it/dati/Commercio/Impianti-Erogazione-carburanti-Uso-Pubblico/ajmv-pmdp>.
+<http://data.opendataday.it/resource/dati.lombardia/ajmv-pmdp>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/z47y-7rbf>.
 <http://data.opendataday.it/resource/dati.lombardia/z47y-7rbf>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/3b7c-6kcq>.
 <http://data.opendataday.it/resource/dati.lombardia/3b7c-6kcq>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
-<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/haxp-4dkd>.
-<http://data.opendataday.it/resource/dati.lombardia/haxp-4dkd>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/5n8b-t34h>.
+<http://data.opendataday.it/resource/dati.lombardia/5n8b-t34h>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/5n8b-t34h>	<http://purl.org/dc/elements/1.1/title>	"Impianti di erogazione metano".
+<http://data.opendataday.it/resource/dati.lombardia/5n8b-t34h>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/commercio>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://purl.org/dc/elements/1.1/title>	"commercio".
+<http://data.opendataday.it/resource/dati.lombardia/5n8b-t34h>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/metano>.
+<http://data.opendataday.it/resource/tag/metano>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/metano>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/metano>	<http://purl.org/dc/elements/1.1/title>	"metano".
+<http://data.opendataday.it/resource/dati.lombardia/5n8b-t34h>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/distributori-metano>.
+<http://data.opendataday.it/resource/tag/distributori-metano>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/distributori-metano>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/distributori-metano>	<http://purl.org/dc/elements/1.1/title>	"distributori metano".
+<http://data.opendataday.it/resource/dati.lombardia/5n8b-t34h>	<http://purl.org/dc/terms/description>	"Impianti di erogazione metano per autotrazione ad uso pubblico".
+<http://data.opendataday.it/resource/dati.lombardia/5n8b-t34h>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/5n8b-t34h>	<http://purl.org/dc/terms/modified>	"2008".
+<http://data.opendataday.it/resource/dati.lombardia/5n8b-t34h/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/5n8b-t34h>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/5n8b-t34h/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/5n8b-t34h/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/5n8b-t34h.json>.
+<http://data.opendataday.it/resource/dati.lombardia/5n8b-t34h/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/5n8b-t34h>	<http://xmlns.com/foaf/0.1/homepage>	</commercio/impianti-di-erogazione-metano>.
+<http://data.opendataday.it/resource/dati.lombardia/5n8b-t34h>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
+<http://data.opendataday.it/resource/dati.lombardia/r9fb-4fm4>	<http://purl.org/dc/elements/1.1/title>	"Ostelli della Gioventù".
+<http://data.opendataday.it/resource/dati.lombardia/r9fb-4fm4>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/sport>.
+<http://data.opendataday.it/resource/tag/sport>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/sport>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/sport>	<http://purl.org/dc/elements/1.1/title>	"sport".
+<http://data.opendataday.it/resource/dati.lombardia/r9fb-4fm4>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/ostelli>.
+<http://data.opendataday.it/resource/tag/ostelli>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/ostelli>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/ostelli>	<http://purl.org/dc/elements/1.1/title>	"ostelli".
+<http://data.opendataday.it/resource/dati.lombardia/r9fb-4fm4>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/low-cost>.
+<http://data.opendataday.it/resource/tag/low-cost>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/low-cost>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/low-cost>	<http://purl.org/dc/elements/1.1/title>	"low cost".
+<http://data.opendataday.it/resource/dati.lombardia/r9fb-4fm4>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/turismo>.
+<http://data.opendataday.it/resource/tag/turismo>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/turismo>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/turismo>	<http://purl.org/dc/elements/1.1/title>	"turismo".
+<http://data.opendataday.it/resource/dati.lombardia/r9fb-4fm4>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/giovani>.
+<http://data.opendataday.it/resource/tag/giovani>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/giovani>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/giovani>	<http://purl.org/dc/elements/1.1/title>	"giovani".
+<http://data.opendataday.it/resource/dati.lombardia/r9fb-4fm4>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/itinerari>.
+<http://data.opendataday.it/resource/tag/itinerari>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/itinerari>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/itinerari>	<http://purl.org/dc/elements/1.1/title>	"itinerari".
+<http://data.opendataday.it/resource/dati.lombardia/r9fb-4fm4>	<http://purl.org/dc/terms/description>	"Elenco degli ostelli di Lombardia attivi sul territorio e rispondenti ai requisiti di qualità fissati del regolamento regionale n. 2/2011.".
+<http://data.opendataday.it/resource/dati.lombardia/r9fb-4fm4>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/r9fb-4fm4>	<http://purl.org/dc/terms/modified>	"23/1/13".
+<http://data.opendataday.it/resource/dati.lombardia/r9fb-4fm4/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/r9fb-4fm4>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/r9fb-4fm4/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/r9fb-4fm4/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/r9fb-4fm4.json>.
+<http://data.opendataday.it/resource/dati.lombardia/r9fb-4fm4/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/r9fb-4fm4>	<http://xmlns.com/foaf/0.1/homepage>	<http://dati.lombardia.it/dati/Sport/Ostelli-della-Giovent-/r9fb-4fm4>.
+<http://data.opendataday.it/resource/dati.lombardia/r9fb-4fm4>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
+<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/r9fb-4fm4>.
+<http://data.opendataday.it/resource/dati.lombardia/r9fb-4fm4>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/jayn-vsw3>.
+<http://data.opendataday.it/resource/dati.lombardia/jayn-vsw3>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia/jayn-vsw3>	<http://purl.org/dc/elements/1.1/title>	"Mappa Mercati Storici".
+<http://data.opendataday.it/resource/dati.lombardia/jayn-vsw3>	<http://www.w3.org/ns/dcat#theme>	<http://data.opendataday.it/resource/tag/commercio>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://purl.org/dc/elements/1.1/title>	"commercio".
+<http://data.opendataday.it/resource/dati.lombardia/jayn-vsw3>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/mercati>.
+<http://data.opendataday.it/resource/tag/mercati>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/mercati>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/mercati>	<http://purl.org/dc/elements/1.1/title>	"mercati".
+<http://data.opendataday.it/resource/dati.lombardia/jayn-vsw3>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/mercati-storici>.
+<http://data.opendataday.it/resource/tag/mercati-storici>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/mercati-storici>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/mercati-storici>	<http://purl.org/dc/elements/1.1/title>	"mercati storici".
+<http://data.opendataday.it/resource/dati.lombardia/jayn-vsw3>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/mercati-particolare-pregio>.
+<http://data.opendataday.it/resource/tag/mercati-particolare-pregio>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/mercati-particolare-pregio>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/mercati-particolare-pregio>	<http://purl.org/dc/elements/1.1/title>	"mercati particolare pregio".
+<http://data.opendataday.it/resource/dati.lombardia/jayn-vsw3>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/mercati-valenza-storica>.
+<http://data.opendataday.it/resource/tag/mercati-valenza-storica>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/mercati-valenza-storica>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/mercati-valenza-storica>	<http://purl.org/dc/elements/1.1/title>	"mercati valenza storica".
+<http://data.opendataday.it/resource/dati.lombardia/jayn-vsw3>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/commercio>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/commercio>	<http://purl.org/dc/elements/1.1/title>	"commercio".
+<http://data.opendataday.it/resource/dati.lombardia/jayn-vsw3>	<http://www.w3.org/ns/dcat#keyword>	<http://data.opendataday.it/resource/tag/riconoscimento-regione-lombardia>.
+<http://data.opendataday.it/resource/tag/riconoscimento-regione-lombardia>	<http://purl.org/dc/elements/1.1/creator>	<http://data.opendataday.it/resource/dati.lombardia>.
+<http://data.opendataday.it/resource/tag/riconoscimento-regione-lombardia>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2004/02/skos/core#Concept>.
+<http://data.opendataday.it/resource/tag/riconoscimento-regione-lombardia>	<http://purl.org/dc/elements/1.1/title>	"riconoscimento regione lombardia".
+<http://data.opendataday.it/resource/dati.lombardia/jayn-vsw3>	<http://purl.org/dc/terms/description>	"Mercati a valenza storica e Mercati di particolare pregio".
+<http://data.opendataday.it/resource/dati.lombardia/jayn-vsw3>	<http://purl.org/dc/terms/license>	<http://www.dati.gov.it/iodl/2.0/>.
+<http://data.opendataday.it/resource/dati.lombardia/jayn-vsw3>	<http://purl.org/dc/terms/modified>	"2011".
+<http://data.opendataday.it/resource/dati.lombardia/jayn-vsw3/ds0>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Distribution>.
+<http://data.opendataday.it/resource/dati.lombardia/jayn-vsw3>	<http://www.w3.org/ns/dcat#distribution>	<http://data.opendataday.it/resource/dati.lombardia/jayn-vsw3/ds0>.
+<http://data.opendataday.it/resource/dati.lombardia/jayn-vsw3/ds0>	<http://www.w3.org/ns/dcat#accessURL>	<http://data.opendataday.it/resource/dati.lombardia/jayn-vsw3.json>.
+<http://data.opendataday.it/resource/dati.lombardia/jayn-vsw3/ds0>	<http://rdfs.org/ns/void#format>	"application/json".
+<http://data.opendataday.it/resource/dati.lombardia/jayn-vsw3>	<http://xmlns.com/foaf/0.1/homepage>	</commercio/mappa-mercati-storici>.
+<http://data.opendataday.it/resource/dati.lombardia/jayn-vsw3>	<http://purl.org/dc/terms/publisher>	"Regione Lombardia".
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/4gej-rwsm>.
 <http://data.opendataday.it/resource/dati.lombardia/4gej-rwsm>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/haxp-4dkd>.
+<http://data.opendataday.it/resource/dati.lombardia/haxp-4dkd>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/qei2-y4gu>.
 <http://data.opendataday.it/resource/dati.lombardia/qei2-y4gu>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/7xtv-kd8n>.
@@ -275,12 +1266,12 @@ La realtà dei musei in Lombardia è un fenomeno numericamente consistente e soc
 <http://data.opendataday.it/resource/dati.lombardia/2si5-tumt>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/wx7w-xeei>.
 <http://data.opendataday.it/resource/dati.lombardia/wx7w-xeei>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
-<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/hh9z-3tik>.
-<http://data.opendataday.it/resource/dati.lombardia/hh9z-3tik>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/zmar-ir3y>.
 <http://data.opendataday.it/resource/dati.lombardia/zmar-ir3y>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/u8qe-3an8>.
 <http://data.opendataday.it/resource/dati.lombardia/u8qe-3an8>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/hh9z-3tik>.
+<http://data.opendataday.it/resource/dati.lombardia/hh9z-3tik>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/bnir-ka5k>.
 <http://data.opendataday.it/resource/dati.lombardia/bnir-ka5k>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/5hif-b9p7>.
@@ -353,10 +1344,10 @@ La realtà dei musei in Lombardia è un fenomeno numericamente consistente e soc
 <http://data.opendataday.it/resource/dati.lombardia/yewe-nq32>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/tntx-mf3m>.
 <http://data.opendataday.it/resource/dati.lombardia/tntx-mf3m>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
-<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/7p6n-d7ue>.
-<http://data.opendataday.it/resource/dati.lombardia/7p6n-d7ue>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/ppst-xbaq>.
 <http://data.opendataday.it/resource/dati.lombardia/ppst-xbaq>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
+<http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/7p6n-d7ue>.
+<http://data.opendataday.it/resource/dati.lombardia/7p6n-d7ue>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/mffx-ukcq>.
 <http://data.opendataday.it/resource/dati.lombardia/mffx-ukcq>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/ns/dcat#Dataset>.
 <http://data.opendataday.it/resource/dati.lombardia>	<http://www.w3.org/ns/dcat#dataset>	<http://data.opendataday.it/resource/dati.lombardia/nrbh-46m2>.
