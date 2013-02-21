@@ -251,6 +251,9 @@ function uriCleaner(uri) {
 	if (uri.length > 60) {
 		uri = uri.substring(0, 50);
 	}
+	while(uri.length == uri.lastIndexOf("-")){
+		uri= uri.substring(0, uri.lastIndexOf("-"));
+	}
 	return uri;
 }
 var defaultDiacriticsRemovalMap = [ {
